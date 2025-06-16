@@ -139,6 +139,7 @@ section{
 
  }
  .txt-container{
+    max-width:600px;
     font-size:16px;
     line-height:1.6;
     flex-wrap:wrap;
